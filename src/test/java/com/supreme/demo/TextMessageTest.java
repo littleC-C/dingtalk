@@ -1,7 +1,7 @@
 package com.supreme.demo;
 
-import com.ampmind.service.pay.trade.alarm.DingtalkChatbotClient;
-import com.ampmind.service.pay.trade.alarm.SendResult;
+import com.supreme.client.DingtalkChatbotClient;
+import com.supreme.client.SendResult;
 import com.supreme.message.TextMessage;
 import org.junit.Test;
 
